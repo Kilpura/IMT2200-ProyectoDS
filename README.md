@@ -1,11 +1,11 @@
 # Este es nuestro repositorio del grupo 12, curso IMT2200.
 
-Miembros
+## Miembros
 
-Valentina Valdivia
+*  Valentina Valdivia
 
-Diego Fernández
+*  Diego Fernández
 
-Gabriel Fuentes
+*  Gabriel Fuentes
 
-Natalia Vallejos
+*  Natalia Vallejos
