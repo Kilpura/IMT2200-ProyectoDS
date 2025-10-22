@@ -38,21 +38,9 @@ Por ello, este proyecto busca estudiar cómo la modalidad de trabajo influye en 
 
 -¿Qué factores pueden influir en el resultado de los datos estudiados?
 
-## 3. Datos
+## 3. Estructura del Repositorio
 
-Los datos utilizados provienen de la plataforma Kaggle y se centran en el impacto del teletrabajo en la salud mental y la productividad. 
-
-| Archivo | Fuente (Kaggle URL) |
-| :--- | :--- |
-| **`Mental Health Of Remote Workers.csv`** |[https://www.kaggle.com/datasets/abhishekjaiswal4896/mental-health-of-remote-workers](https://www.kaggle.com/datasets/abhishekjaiswal4896/mental-health-of-remote-workers) |
-| **`Impact_of_Remote_Work_on_Mental_Health.csv`** | [https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health) |
-| **`remote_work_productivity.csv`** | [https://www.kaggle.com/datasets/mrsimple07/remote-work-productivity](https://www.kaggle.com/datasets/mrsimple07/remote-work-productivity) |
-| **`remote_worker_productivity_1000.csv`** |[https://www.kaggle.com/datasets/ziya07/remote-worker-productivity-dataset](https://www.kaggle.com/datasets/ziya07/remote-worker-productivity-dataset) |
-| **`Remote Work Of Health Impact Survey June 2025.csv`** |[https://www.kaggle.com/datasets/kshitijsaini121/remote-work-of-health-impact-survey-june-2025/data](https://www.kaggle.com/datasets/kshitijsaini121/remote-work-of-health-impact-survey-june-2025/data) |
-
-## 4. Estructura del Repositorio
-
-**`info.ipynb`** - Contiene la información del equipo de trabajo, incluyendo los nombres y perfiles de GitHub de cada integrante.
+**`info.pdf`** - Contiene la información del equipo de trabajo, incluyendo los nombres y perfiles de GitHub de cada integrante.
 
 ### Notebooks (`/notebooks`)
 
