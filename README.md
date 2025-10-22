@@ -1,6 +1,6 @@
 # IMT2200 Introducción a la Ciencia de Datos
 
-## Grupo 12: ¿Cómo influye la modalidad de trabajo (remoto o presencial) en la salud mental de los trabajadores y cómo se relaciona esta con su nivel de productividad?
+## Grupo 24: ¿Cómo influye la modalidad de trabajo (remoto o presencial) en la salud mental de los trabajadores y cómo se relaciona esta con su nivel de productividad?
 
 Profesor: Rodrigo A. Carrasco
 
@@ -16,12 +16,11 @@ Miembros:
 
 ## 1. Contexto y Motivación
 
-Durante las últimas décadas, la salud mental se ha convertido en un tema de alta relevancia, siendo uno de los mayores desafíos de salud pública en todo el mundo. Organismos como la Organización Mundial de la Salud (OMS) nos muestran cómo los casos de trastornos mentales han aumentado de forma considerable, afectando tanto a jóvenes como adultos en edad laboral. 
-Si bien existen diversos factores que influyen en estas cifras, el ámbito laboral es uno de los principales ambientes que pueden afectar el bienestar psicológico de una persona, en donde, en esta época, es común que se generen situaciones de estrés, exceso de trabajo, inseguridad laboral, etc.
+En las últimas décadas, la salud mental se ha vuelto un tema prioritario a nivel mundial, siendo uno de los mayores desafíos de salud pública. Según la Organización Mundial de la Salud (OMS), los casos de trastornos mentales han aumentado considerablemente, afectando tanto a jóvenes como a adultos en edad laboral.
 
-Posterior a la pandemia, las modalidades de trabajo normal se vieron forzadas a adaptarse al confinamiento, por lo que surgieron alternativas como modalidades de trabajo remoto e híbridos, y en la actualidad, muchas de estas opciones se mantienen, debido a diversas ventajas, siendo algunas; mayor ahorro de tiempo, mayor flexibilidad, mejor equilibrio entre vida personal y trabajo, entre otras. Sin embargo, junto con estas ventajas, estas modalidades pueden traer consigo también ciertas desventajas, como por ejemplo dificultades para desconectarse de los requisitos del trabajo, paranoia de productividad, separar el trabajo de la vida privada e incluso otros riesgos psicosociales como el aislamiento. (Int. J. Environ. Res. Salud Pública 2022)
+El entorno laboral es uno de los principales factores que puede influir en el bienestar psicológico, ya que suele generar situaciones de estrés, exceso de trabajo e inseguridad laboral. Tras la pandemia, surgieron nuevas modalidades como el trabajo remoto e híbrido, que ofrecen ventajas —como mayor flexibilidad y equilibrio entre la vida personal y laboral—, pero también desventajas, como dificultades para desconectarse del trabajo o aislamiento social (Int. J. Environ. Res. Salud Pública 2022).
 
-Frente a estas evidencias, resulta fundamental estudiar cómo la modalidad de trabajo afecta el bienestar del trabajador, por lo que en este proyecto recolectamos diversos datos (obtenidos de diversos datasets de Kaggle) que exploren esta relación, evaluando también otros factores como la productividad y rendimiento del mismo. Luego, a partir de un análisis de los datos usados encontrar patrones y tendencias que respondan esta interrogante. También se espera entregar información accionable que ayude a promover entornos laborales más sostenibles y beneficiosos tanto para empleadores como para trabajadores.
+Por ello, este proyecto busca estudiar cómo la modalidad de trabajo influye en el bienestar de los trabajadores, utilizando diversos datasets de Kaggle. Además, se analizarán factores como la productividad y el rendimiento, con el fin de identificar patrones y tendencias que permitan promover entornos laborales más saludables y sostenibles.
 
 ## 2. Preguntas Objetivo 
 
@@ -38,3 +37,30 @@ Frente a estas evidencias, resulta fundamental estudiar cómo la modalidad de tr
 -¿Se observa una correlación entre salud mental y productividad dentro de cada modalidad de trabajo?
 
 -¿Qué factores pueden influir en el resultado de los datos estudiados?
+
+## 3. Estructura del Repositorio
+
+**`info.pdf`** - Contiene la información del equipo de trabajo, incluyendo los nombres y perfiles de GitHub de cada integrante.
+
+### Notebooks (`/notebooks`)
+
+En esta carpeta se encuentran los notebooks principales del proyecto:
+
+**`IMT2200_Proyecto_EDA_Grupo24.ipynb`** - Este es el notebook principal del proyecto, donde se presenta el análisis completo incluyendo:
+- Un resumen del proyecto con una breve introducción que conecta con lo entregado previamente
+- El análisis de datos, donde se describen y documentan todos los métodos computacionales y estadísticos aplicados al modelamiento.
+- Un resumen narrativo y visual de los resultados, explicando cómo estos responden a la pregunta de investigación original.
+- Una sección crítica sobre las posibles limitaciones y sesgos de los datos o análisis, identificando qué problemas podrían generarse a partir de la solución o las decisiones recomendadas
+
+### Datos (`/data`)
+
+Esta carpeta almacena todos los datasets utilizados en el análisis. Los archivos incluyen distintas fuentes de datos relacionadas con trabajo remoto, salud mental y productividad.
+
+### Tests (`/tests`)
+
+En esta carpeta se encuentran los notebooks de prueba y exploración individual desarrollados durante el proceso de análisis:
+- `diego_limpieza.ipynb`
+- `impact.ipynb`
+- `mental.ipynb` 
+- `productivity.ipynb` 
+- `surveyjune.ipynb` 
