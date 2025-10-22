@@ -48,8 +48,8 @@ En esta carpeta se encuentran los notebooks principales del proyecto:
 
 **`IMT2200_Proyecto_EDA_Grupo24.ipynb`** - Este es el notebook principal del proyecto, donde se presenta el análisis completo incluyendo:
 - Un resumen del proyecto con una breve introducción que conecta con lo entregado previamente
-- El análisis de datos, donde se describen y documentan todos los métodos computacionales y estadísticos aplicados al modelamiento. Aquí se justifican las decisiones tomadas (selección de variables, configuración de algoritmos, normalizaciones, validaciones) y se evalúan los resultados mediante métricas apropiadas como error cuadrático, intervalos de confiabilidad, precisión, recall, F1, matrices de confusión, entre otras
-- Un resumen narrativo y visual de los resultados, explicando cómo estos responden a la pregunta de investigación original
+- El análisis de datos, donde se describen y documentan todos los métodos computacionales y estadísticos aplicados al modelamiento.
+- Un resumen narrativo y visual de los resultados, explicando cómo estos responden a la pregunta de investigación original.
 - Una sección crítica sobre las posibles limitaciones y sesgos de los datos o análisis, identificando qué problemas podrían generarse a partir de la solución o las decisiones recomendadas
 
 ### Datos (`/data`)
